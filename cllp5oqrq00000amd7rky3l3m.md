@@ -116,7 +116,7 @@ Here's what's going on:
 
 **sample\_legitimate:** This is the fun part. We're dipping into the pile of legitimate transactions and pulling out a random batch, like grabbing candies from a jar. We're talking about 492 of them, to be precise. This move is all about balance - making sure we have equal parts of legitimate and fraudulent transactions.
 
-**new\_data:** Bringing things together! We're taking that random sample of legitimate transactions from before and mixing it up with the fraudulent ones. The result? A fresh batch of data called "new\_data" where we've got the same number of legit and tricky transactions (492 of each).
+**new\_data:** Bringing things together! We're taking that random sample of legitimate transactions from before and mixing it up with the fraudulent ones. The result? A fresh batch of data called "new\_data" where we've got the same number of legit and fraudulent transactions (492 of each).
 
 Now, I don't want this article to get too long, so I will quickly go over the remaining steps, the full code is available on my [GitHub](https://github.com/Izuasomba/credit-card-fraud-detection).
 
